@@ -22,9 +22,9 @@ def literal_aoh
   people = [
   {name:  "Don Gately", occupation: "Live-in Staff"}.sort,
   {name:  "Joelle van Dyne", occupation: "Radio Personality"}.sort,
-  {name:  "Pat Monteseian", occupation: "Staff"}.sort,
-  {name:  "Kate Gompert", occupation: "None"}.sort,
-  {name:  "Bruce Green", occupation: "Fan of Mildred"}.sort
+  {name:  "Pat Monteseian", occupation: "Staff"},
+  {name:  "Kate Gompert", occupation: "None"},
+  {name:  "Bruce Green", occupation: "Fan of Mildred"}
   ]
   
 end
